@@ -1,0 +1,5 @@
+# LISP compiled files
+*.fasl
+
+# Vim swap files and such
+*.swp
