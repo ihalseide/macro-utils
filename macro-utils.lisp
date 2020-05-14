@@ -1,5 +1,4 @@
-
-;;;; macro-utils
+;;;; macro-utils.lisp
 
 (in-package #:com.div0.macro-utils)
 

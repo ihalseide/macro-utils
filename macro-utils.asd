@@ -1,6 +1,6 @@
 ;;;; macro-utils.asd
 
-(asdf:defsystem "com.div0.macro-utils"
+(asdf:defsystem #:macro-utils
   :description "Some of Izak's macro utilities."
   :author "Izak Halseide <halseide.izak@gmail.com>"
   :license  "MIT License"
