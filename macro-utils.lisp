@@ -1,6 +1,6 @@
 ;;;; macro-utils.lisp
 
-(in-package #:com.div0.macro-utils)
+(in-package :com.div0.macro-utils)
 
 (defmacro with-gensyms ((&rest names) &body body)
   "Let a bunch of named gensyms."

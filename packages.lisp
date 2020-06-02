@@ -1,8 +1,8 @@
 ;;;; packages.lisp
 
-(in-package #:cl-user)
+(in-package :cl-user)
 
-(defpackage #:com.div0.macro-utils
-  (:use #:common-lisp)
+(defpackage :com.div0.macro-utils
+  (:use :common-lisp)
   (:export :with-gensyms))
 
