@@ -2,7 +2,7 @@
 
 (asdf:defsystem #:macro-utils
   :description "Some of Izak's macro utilities."
-  :author "Izak Halseide <halseide.izak@gmail.com>"
+  :author "Izak Halseide"
   :license  "MIT License"
   :version "0.0.1"
   :serial t
